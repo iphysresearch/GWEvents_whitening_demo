@@ -1,6 +1,5 @@
 # GWEvents_whitening_demo
 
-## Contents
 
 A simple Python jupyter notebook [Home.ipynb](./Home.ipynb) that show you how to download GWOSC data with GWpy or load local `hdf5/*.hdf5` file from GWOSC with `readligo.py`。 Whitening codes by scratch are also included.
 
@@ -22,7 +21,7 @@ A simple Python jupyter notebook [Home.ipynb](./Home.ipynb) that show you how to
 
     ```python
     $ python -m pip install gwpy
-    # or
+    ## or ##
     $ pip install --upgrade gwpy
     ```
 
